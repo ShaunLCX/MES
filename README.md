@@ -21,6 +21,18 @@ How to run the system
 After cloning can follow this step
 
 #Backend
+1. Please add .env file into the back end and type in or copy this into the file
+
+NODE_ENV=development
+DATABASE_USERNAME=your_dbuser
+DATABASE_PASSWORD=your_password
+DATABASE_NAME=mes_db
+DATABASE_HOST=your_host
+DIALECT=mssql
+DIALECT_OPTIONS_ENCRYPT=true
+DIALECT_OPTIONS_ENABLE_ARITH_ABORT=true
+PORT=3000
+
 1.  You can check the setting on .env based on your setting in your pc can change it based it on your username password
 2.  Open a terminal
 3.  Based on your path then cd backend
