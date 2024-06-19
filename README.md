@@ -1,8 +1,5 @@
 # MES SYSTEM SETUP
 
-1. Please use Microsoft SQL Server for this system
-2. Pleae run the following sql script provided
-3. Can rrename the db name for it
-
+1. If you see this master branch please pulll from main branch
 
 #Please pull  from the main branch
