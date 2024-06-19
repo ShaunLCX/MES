@@ -2,6 +2,11 @@
 ### Prerequisites
 
 Ensure you have Node.js and npm installed. 
+(microsoft sql server 2019 was my first choice was due the available database in my pc right now which make my setup faster)
+Using Sequelize based on my study is easier for ORM and save time for writing query and portablity for microsoft sql server
+Using vuetify because of the readyness of the code and available library
+uing axios to control Error Handling and Browser Compatibility
+
 
 1. Please use Microsoft SQL Server for this system
 2. Pleae run the following sql script provided
